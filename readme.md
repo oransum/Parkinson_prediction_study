@@ -1,4 +1,9 @@
+Unified Parkinson Disease Rating Scale (UPDRS) score prediction model study
+================
+Author: Oran Chan, Prashanti Nilayam, Heta Desai
+Date: Aug-7-2020
 
+-----
 ### Introduction
 
 - For our analysis, we will be using the *Oxford Parkinson's Disease Telemonitoring Dataset* from the data file `parkinsons_updrs.csv`. 
