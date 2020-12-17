@@ -1,23 +1,3 @@
----
-title: 'Unified Parkinson Disease Rating Scale (UPDRS) score prediction model'
-author: 'Oran Chan, Prashanti Nilayam, Heta Desai'
-date: 'Aug-7-2020'
-output:
-  # github_document:
-  #   pandoc_args: --webtex
-  html_document:
-    keep_md: true
-    pandoc_args: --webtex
-    theme: readable
-    toc: yes
-  pdf_document: default
-urlcolor: cyan
-teamname: "Illinois scholars"
----
-
-***
-
-
 
 ### Introduction
 
